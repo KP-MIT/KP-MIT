@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 
+![yay](https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg)
+
 <a href="https://github.com/KP-MIT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KP-MIT&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KP-MIT&theme=buefy&layout=compact" />
