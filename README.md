@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 - :speech_balloon: I am chatty, talk to me about accessibility, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikpathak33@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-kartik-pathak/)
-[![kp-mit.com](https://img.shields.io/badge/-KP-MIT.COM-000000?style=for-the-badge&logo=react&logoColor=white)]()
-
 <p align="center">
 <a href="https:#"><img alt="Website" src="https://img.shields.io/badge/Website-www.KP-MIT.COM-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/developer-kartik-pathak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kartik%20Pathak-blue?style=flat-square&logo=linkedin"></a>
