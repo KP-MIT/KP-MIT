@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - :mailbox: You can reach me with the links below
 
 <p align="center">
-<a href="https://developerkartikpathak.online"><img alt="Website" src="https://img.shields.io/badge/Website-developerkartikpathak-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/developer-kartik-pathak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kartik%20Pathak-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/blunt_chill_baked/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blunt_chill_baked_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kartikpathak33@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kartikpathak33@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://developerkartikpathak.online"><img target="_blank" alt="Website" src="https://img.shields.io/badge/Website-developerkartikpathak-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/developer-kartik-pathak/"><img target="_blank" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kartik%20Pathak-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/blunt_chill_baked/"><img target="_blank" alt="Instagram" src="https://img.shields.io/badge/Instagram-blunt_chill_baked_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:kartikpathak33@gmail.com"><img alt="Email" target="_blank" src="https://img.shields.io/badge/Email-kartikpathak33@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ##### Languages I use
